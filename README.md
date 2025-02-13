@@ -21,6 +21,15 @@
 ---
 
 ## **📂 Repository Structure**
+📂 Levelling_Up_to_100  
+ ├── 🟢 E-Rank (1-10)  
+ ├── 🔵 D-Rank (11-25)  
+ ├── 🟠 C-Rank (26-50)  
+ ├── 🔴 B-Rank (51-75)  
+ ├── 🟣 A-Rank (76-99)  
+ ├── 🖤 S-Rank (100)  
+ ├── Progress.md  # Tracks daily progress  
+ ├── README.md  # Your main repo description (place this here!)  
 
 ---
 
