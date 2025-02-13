@@ -6,17 +6,14 @@
 
 ---
 
-## **🏆 Current Rank: 🟢 E-Rank (0/100 Programs Completed)**  
-📊 **Progress:** 
-
-| Rank | Programs Completed | Status |
-|------|-------------------|--------|
-| 🟢 **E-Rank (Newbie Coder)** | 1 - 10 | 🔥 Locked |
-| 🔵 **D-Rank (Apprentice Coder)** | 11 - 25 | 🔒 Locked |
-| 🟠 **C-Rank (Intermediate Coder)** | 26 - 50 | 🔒 Locked |
-| 🔴 **B-Rank (Advanced Coder)** | 51 - 75 | 🔒 Locked |
-| 🟣 **A-Rank (Elite Coder)** | 76 - 99 | 🔒 Locked |
-| 🖤 **S-Rank (C Grandmaster)** | 100 | 🔒 Locked |
+## **🏆 Current Rank: 🟢 E-Rank (3/100 Programs Completed)**  
+📊 **Progress:**  
+- **E-Rank (Newbie Coder):** 3/10 programs completed  
+- **D-Rank (Apprentice Coder):** Locked  
+- **C-Rank (Intermediate Coder):** Locked  
+- **B-Rank (Advanced Coder):** Locked  
+- **A-Rank (Elite Coder):** Locked  
+- **S-Rank (C Grandmaster):** Locked  
 
 ---
 
@@ -27,7 +24,7 @@
  ├── 🟠 C-Rank (26-50)  
  ├── 🔴 B-Rank (51-75)  
  ├── 🟣 A-Rank (76-99)  
- ├── 🖤 S-Rank (100)   
+ ├── 🖤 S-Rank (100)  
 
 ---
 
@@ -46,6 +43,13 @@
 
 ---
 
+## **📈 Track My Progress**
+Check out my detailed progress in the **[Progress.md](Progress.md)** file!  
+- **E-Rank (Newbie Coder)**: Currently, I’ve completed 3 out of 10 programs! 🎉  
+- **Next Steps**: Moving toward D-Rank after 10 programs.  
+
+---
+
 **"I was an E-Rank coder… Until I started leveling up!"**  
 
-🔥 **Final Goal: Reach S-Rank & Master C!** 🔥  
+🔥 **Final Goal: Reach S-Rank & Master C!** 🔥
