@@ -6,9 +6,9 @@
 
 ---
 
-## **🏆 Current Rank: 🟢 E-Rank (3/100 Programs Completed)**  
+## **🏆 Current Rank: 🟢 E-Rank **  
 📊 **Progress:**  
-- **E-Rank (Newbie Coder):** 3/10 programs completed  
+- **E-Rank (Newbie Coder):**  on progress  
 - **D-Rank (Apprentice Coder):** Locked  
 - **C-Rank (Intermediate Coder):** Locked  
 - **B-Rank (Advanced Coder):** Locked  
