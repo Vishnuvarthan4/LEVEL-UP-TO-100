@@ -1,4 +1,4 @@
-# **🔥 Levelling Up to 100 – The Ultimate C Programming Journey**
+# **🔥 Leveling Up to 100 – The Ultimate C Programming Journey**
 ### **By Vishnuvarthan J** 🚀
 
 🎮 **From E-Rank Newbie to S-Rank Grandmaster!**  
