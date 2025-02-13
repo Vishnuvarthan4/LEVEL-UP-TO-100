@@ -7,7 +7,7 @@
 ---
 
 ## **🏆 Current Rank: 🟢 E-Rank (0/100 Programs Completed)**  
-📊 **Progress:** ▒▒▒▒▒▒▒▒▒▒ **0% Complete**  
+📊 **Progress:** 
 
 | Rank | Programs Completed | Status |
 |------|-------------------|--------|
