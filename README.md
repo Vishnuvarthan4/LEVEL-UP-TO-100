@@ -27,9 +27,7 @@
  ├── 🟠 C-Rank (26-50)  
  ├── 🔴 B-Rank (51-75)  
  ├── 🟣 A-Rank (76-99)  
- ├── 🖤 S-Rank (100)  
- ├── Progress.md  # Tracks daily progress  
- ├── README.md  # Your main repo description (place this here!)  
+ ├── 🖤 S-Rank (100)   
 
 ---
 
@@ -38,19 +36,6 @@
 - 🧠 **Problem-Solving** – Learning algorithms & logic.  
 - 🎮 **Level-Up System** – Making coding fun like a game.  
 - 🚀 **Master C Language** – From basics to advanced concepts.  
-
----
-
-## **📜 Daily Progress Log**  
-
-| Day | Program | Status | Notes |
-|-----|---------|--------|-------|
-|  1  | Hello World | 🔄 In Progress | First step in C! |
-|  2  | Sum of Two Numbers | 🔄 In Progress | Practicing input/output |
-|  3  | Factorial | 🔄 In Progress | Exploring recursion! |
-| ... | ... | ... | ... |
-
-📌 **Check `Progress.md` for full details!**  
 
 ---
 
